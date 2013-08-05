@@ -1,1 +1,5 @@
-$ python heyjin.py
+```
+$ python heyjin.py 'Heyjin'
+```
+
+Heyjin is AWESOME!
